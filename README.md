@@ -42,6 +42,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/python-brasil/python-brasil/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/python-brasil/output/snake.svg" alt="Snake animation" />
 
 ###
