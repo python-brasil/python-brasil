@@ -39,7 +39,7 @@
   <a href="https://www.linkedin.com/company/comunidade-python-brasil" target="_blank">
     <img src="https://github.com/python-brasil/python-brasil/assets/111323514/404a42f3-0fb4-4fee-a787-c2e4f0abdad6">
   </a>
-  <a href="https://discord.gg/Ju4XJt7m" target="_blank">
+  <a href="https://discord.gg/fEtFJt7qKC" target="_blank">
     <img src="https://github.com/python-brasil/python-brasil/assets/111323514/0375ca02-1135-4ee5-99e3-0bb980c28445">
   </a>
   <a href="https://www.youtube.com/@Python_Brasil" target="_blank" >
@@ -48,9 +48,8 @@
   <a href="https://www.instagram.com/python_brasil/" target="_blank" >
     <img src="https://github.com/python-brasil/python-brasil/assets/111323514/3c12ed6b-8336-4bbf-8f87-7fa0ce26ff84">
   </a>
-  <a href="pythonbrasil@gmail.com" target="_blank" >
+  <a href="contato@pythonbr.com.br" target="_blank" >
     <img src='https://github.com/python-brasil/python-brasil/assets/111323514/2af71edc-5b96-4852-899e-d7a4dd8f5a55'>
-
   </a>
 </div>
 
